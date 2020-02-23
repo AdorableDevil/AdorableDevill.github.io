@@ -1,9 +1,10 @@
-title: wu-kan # 站点标题
+title: Ricky # 站点标题
 description: | # 头像背后的信息，<br/>代表换行
-  学生党18级在读<br/>
+  学生党<br/>
+  18级在读<br/>
   喜欢钻研<br/>
   喜欢编程<br/>
-  <a href="https://adorabledevil.github.io/" title="github">
+  <a href="https://github.com/AdorableDevil" title="github">
     <i class="fab fa-github"></i>
   </a>
   <a href="https://www.zhihu.com/people/treasure-58-25" title="zhihu">
@@ -185,7 +186,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         - | # Copyright
           <div>
             <i class="fas fa-copyright fa-fw"></i>
-            2017-2020 WuK
+            2017-2020 Ricky
           </div>
         - | # 运行时间
           <div>
@@ -489,7 +490,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         }
         @media (min-aspect-ratio: 2400/1850) {
           .wrap {
-            background-image: url(https://img-blog.csdnimg.cn/20200223214055400.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Fkb3JhYmxlRGV2aWw=,size_16,color_FFFFFF,t_70);
+            background-image: url(https://img-blog.csdnimg.cn/20200223223841198.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Fkb3JhYmxlRGV2aWw=,size_16,color_FFFFFF,t_70);
           }
         }
         .container {
