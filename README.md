@@ -1,5 +1,5 @@
 ---
-title: RickyのBlog
+title: RickyのBlog 
 ---
 
 ## Contact
