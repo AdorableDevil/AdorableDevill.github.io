@@ -43,7 +43,25 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           homePageUrl='/'
           homePageName='回到我的主页'
         ></script>
-  
+  merger:
+    append_to_head: 
+   - | #支持的变量见https://merger.justhx.com/cn/docs/configure
+         <script>
+          let usage = "payment";
+          let wechat = "wxp://f2f0zW0vCNJBVDSvu1XG3K1UNdLpvL_j6s_n";
+          let tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQr5LktwIYmdPN8gU%3D_xxx_sign&u=653855023&n=treasure";
+          let alipay = "HTTPS://QR.ALIPAY.COM/FKX07899NKY0DHOGCIOU26";
+          let myname = "Ricky";
+          let profile = "https://img-blog.csdnimg.cn/20200223211705227.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Fkb3JhYmxlRGV2aWw=,size_16,color_FFFFFF,t_70 ";
+          let multilingual = true;
+          let myname_hans = "Ricky";
+          let myname_hant = "Ricky";
+          let myname_eng = "Ricky";
+          let title = "选择你的支付方式";
+          let subtitle = "跟随进一步的指示以向" + myname + "付款";
+          let qrcodeapi = "https://www.zhihu.com/qrcode?url=";
+        </script> 
+
       - |
         <meta
           charset="utf-8"
@@ -136,7 +154,9 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           href: /tags/
         - title: '<i class="fas fa-archive fa-fw"></i> 归档'
           href: /archive/
-      
+        - title: '<i class="fas fa-coffee fa-fw"></i> 打赏'
+          href: /merger/
+          
       simple_jekyll_search:
         enable: true
         full_text_search: false # 可能导致缓慢的搜索和加载
