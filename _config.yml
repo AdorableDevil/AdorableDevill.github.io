@@ -43,8 +43,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           homePageName='回到我的主页'
         ></script>
   merger:
-    append_to_head:
-      - | # 支持的变量见https://merger.justhx.com/cn/docs/configure
+    append_to_head: 
          <script>
           let usage = "payment";
           let wechat = "wxp://f2f0zW0vCNJBVDSvu1XG3K1UNdLpvL_j6s_n";
