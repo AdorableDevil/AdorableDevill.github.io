@@ -45,7 +45,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         ></script>
   merger:
     append_to_head: 
-   - | #支持的变量见https://merger.justhx.com/cn/docs/configure
+      - | # 支持的变量见https://merger.justhx.com/cn/docs/configure
          <script>
           let usage = "payment";
           let wechat = "wxp://f2f0zW0vCNJBVDSvu1XG3K1UNdLpvL_j6s_n";
@@ -61,7 +61,6 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           let subtitle = "跟随进一步的指示以向" + myname + "付款";
           let qrcodeapi = "https://www.zhihu.com/qrcode?url=";
         </script> 
-
       - |
         <meta
           charset="utf-8"
@@ -156,7 +155,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           href: /archive/
         - title: '<i class="fas fa-coffee fa-fw"></i> 打赏'
           href: /merger/
-          
+
       simple_jekyll_search:
         enable: true
         full_text_search: false # 可能导致缓慢的搜索和加载
