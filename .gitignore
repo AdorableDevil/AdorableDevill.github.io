@@ -14,8 +14,7 @@ _site
 *.swp
 *.zip
 *.vi
-*~
-
+*~  
 # OS or Editor folders
 .vscode
 .DS_Store
