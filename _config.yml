@@ -494,7 +494,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         }
         .wrap {
           display: inline-block;
-          background-size: 100% auto;
+          background-size: 100vw auto;
           background-position: center top;
           background-repeat: no-repeat;
           background-attachment: fixed;
