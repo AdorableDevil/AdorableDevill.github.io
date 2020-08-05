@@ -502,7 +502,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         }
         @media (min-aspect-ratio: 2400/1850) {
           .wrap {
-            background-image: url(https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1413690338,93716271&fm=26&gp=0.jpg);
+            background-image: url(https://gitee.com/adorabledevil/picture-storage/raw/062b4812d85116f46fa24812744bdf6e09b536d4/backiee-102533-landscape.jpg);
           }
         }
         .container {
