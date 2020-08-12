@@ -311,21 +311,15 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
       - | # Katex
         <link
           rel="stylesheet"
-          href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css"
+          href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
         />
         <script
-          src="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.js"
+          src="https://cdn.jsdelivr.net/combine/npm/katex@0.12.0/dist/katex.min.js,npm/katex@0.12.0/dist/contrib/mathtex-script-type.min.js,npm/katex@0.12.0/dist/contrib/auto-render.min.js"
           defer="defer"
+           onload='renderMathInElement(document.body, { delimiters: [{ left: "$", right: "$", display: false }] })'
         ></script>
-        <script
-          src="https://cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js"
-          defer="defer"
-          onload='renderMathInElement(document.body, { delimiters: [{ left: "$", right: "$", display: false }] })'
-        ></script>
-        <script
-          src="https://cdn.jsdelivr.net/npm/katex/dist/contrib/mathtex-script-type.min.js"
-          defer="defer"
-        ></script>
+
+
       - | # mermaid
         <link
           rel="stylesheet"
