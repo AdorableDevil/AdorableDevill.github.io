@@ -14,7 +14,7 @@ Windows Subsystem for Linux（简称WSL）是一个在Windows 10上能够运行�
 ## 准备
 
  1.打开windows开发者模式
-![如图例](https://gitee.com/adameta/img/raw/master/1578725783_20200111144223121_9117.png)
+![如图例](https://gitee.com/adorabledevil/picture-storage/raw/master/1578725783_20200111144223121_9117.png)
 
 2.打开windows子系统服务
 控制面板->程序和功能->启用或关闭Windows功能->勾选 适用于Linux的Windows子系统
