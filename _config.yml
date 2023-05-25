@@ -155,7 +155,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
     sidebar:
       avatar: # 侧边栏显示的头像
         enable: true
-        img: https://img-blog.csdnimg.cn/20200223211705227.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Fkb3JhYmxlRGV2aWw=,size_16,color_FFFFFF,t_70 # 头像的地址
+        img: https://gitee.com/adorabledevil/picture-storage/raw/master/hdImg_f310e5f39dd2fa36547948c57900abb015822861216.jpg  # 头像的地址
       nav:
         - title: '<i class="fas fa-home fa-fw"></i> 首页'
           href: /
@@ -510,7 +510,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         }
         @media (min-aspect-ratio: 2400/1850) {
           .wrap {
-            background-image: url(https://img-blog.csdnimg.cn/20200806114203631.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Fkb3JhYmxlRGV2aWw=,size_16,color_FFFFFF,t_70);
+            background-image: url(https://gitee.com/adorabledevil/picture-storage/raw/master/backiee-34041-landscape.jpg);
           }
         }
         .container {
