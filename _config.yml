@@ -63,7 +63,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQr5LktwIYmdPN8gU%3D_xxx_sign&u=653855023&n=treasure";
           var alipay = "HTTPS://QR.ALIPAY.COM/FKX07899NKY0DHOGCIOU26";
           var myname = "Ricky";
-          var profile = "https://s1.ax1x.com/2023/05/26/p9btcJe.jpg ";
+          var profile = "https://s1.ax1x.com/2023/05/26/p9btcJe.jpg";
           var multilingual = true;
           var myname_hans = "Ricky";
           var myname_hant = "Ricky";
@@ -289,12 +289,12 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         />
         <link
           rel="apple-touch-icon-precomposed"
-          href="https://img-blog.csdnimg.cn/20200223211705227.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Fkb3JhYmxlRGV2aWw=,size_16,color_FFFFFF,t_70"
+          href="https://s1.ax1x.com/2023/05/26/p9btcJe.jpg"
         />
         <link
           rel="shortcut
           icon"
-          href="https://img-blog.csdnimg.cn/20200223211705227.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0Fkb3JhYmxlRGV2aWw=,size_16,color_FFFFFF,t_70"
+          href="https://s1.ax1x.com/2023/05/26/p9btcJe.jpg"
         />
         <link
           rel="stylesheet"
