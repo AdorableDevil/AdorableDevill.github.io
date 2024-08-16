@@ -198,7 +198,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         - | # Copyright
           <div>
             <i class="fas fa-copyright fa-fw"></i>
-            2017-2020 Ricky
+            2022-2024 Ricky
           </div>
         - | # 运行时间
           <div>
