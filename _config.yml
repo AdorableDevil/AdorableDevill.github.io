@@ -237,7 +237,6 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
                 document.getElementById("run_time_day").innerHTML = daysold;
                 document.getElementById("run_time_hour").innerHTML = setzero(hrsold);
                 document.getElementById("run_time_minute").innerHTML = setzero(minsold);
-                document.getElementById("run_time_second").innerHTML = setzero(seconds);
               }, 1000, "07/28/2023 11:03:56") // 这是我第一篇CSDN博客的时间
             </script>
           </div>
