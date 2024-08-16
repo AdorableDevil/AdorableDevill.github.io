@@ -212,9 +212,6 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
             <span id="run_time_minute">
               <i class="fas fa-spinner fa-pulse"></i>
             </span>分
-            <span id="run_time_second">
-              <i class="fas fa-spinner fa-pulse"></i>
-            </span>秒
             <script>
               setInterval(function (BirthDay) {
                 function setzero(i) {
